@@ -2,10 +2,10 @@
 name = "rs-experiments"
 version = "0.1.0"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Suraj Aswal <surajaswal29@gmail.com>"]
 description = "A modular Rust learning repository with organized examples"
 license = "MIT"
-repository = "https://github.com/yourusername/rs-experiments"
+repository = "https://github.com/surajaswal29/rs-experiments"
 keywords = ["rust", "learning", "examples", "tutorial"]
 categories = ["development-tools", "education"]
 

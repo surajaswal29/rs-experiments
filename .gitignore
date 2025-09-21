@@ -1,2 +1,28 @@
-/target
-.history
+# Rust build artifacts
+/target/
+/debug/
+/release/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Dependencies
+/vendor/
+Cargo.lock
+
+# Environment files
+.env
+.env.local

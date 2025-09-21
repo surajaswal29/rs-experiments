@@ -1,6 +1,18 @@
 // Variables and data types in Rust
 // Demonstrates variable declaration, mutability, shadowing, and data types
 
+/*
+- Variables are immutable by default.
+- Variables are mutable if they are declared with the mut keyword.
+- Variables can be shadowed if they are declared with the same name as a
+  previous variable.
+- Constants are immutable by default.
+- Constants can be declared with the const keyword.
+- Constants can only be declared with a type.
+- Constants can only be declared with a value that can be computed at compile
+  time.
+- Constants can only be declared with a value that is a scalar type.
+*/
 pub fn run() {
     println!("--- Rust Variables Demo ---");
 
